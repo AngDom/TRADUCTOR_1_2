@@ -1,0 +1,60 @@
+asm,ensamblador,Permite insertar instrucciones de lenguaje ensamblador.
+auto,automático,Deja que el compilador deduzca el tipo de una variable.
+bool,booleano,Tipo de dato que puede ser verdadero o falso.
+break,romper,Sale inmediatamente de un bucle o switch.
+catch,capturar,Maneja excepciones lanzadas por un try.
+char,carácter,Tipo de dato que almacena un carácter individual.
+class,clase,Define una clase (estructura de objetos).
+const,constante,Indica que una variable o parámetro no puede cambiar.
+const_cast,conversión_constante,Elimina o agrega el modificador const a un tipo.
+continue,continuar,Salta a la siguiente iteración de un bucle.
+default,predeterminado,Especifica el caso por defecto en un switch.
+delete,eliminar,Libera memoria reservada dinámicamente.
+do,hacer,Inicia un bucle que se ejecuta al menos una vez (do-while).
+double,doble,Tipo de dato de punto flotante de mayor precisión que float.
+dynamic_cast,conversión_dinámica,Convierte tipos en jerarquías de clases con seguridad en tiempo de ejecución.
+else,sino,Define un bloque que se ejecuta si el if es falso.
+enum,enumeración,Define un conjunto de constantes relacionadas.
+explicit,explícito,Evita conversiones automáticas de tipos en constructores.
+extern,externo,Indica que una variable o función está definida en otro archivo.
+false,falso,Valor booleano que representa una condición no verdadera.
+float,flotante,Tipo de dato de número de punto flotante (decimales).
+for,para,Bucle que se repite un número específico de veces.
+friend,amigo,Permite a una función o clase acceder a los miembros privados de otra clase.
+goto,ir_a,Salta a otra parte del programa (no recomendado).
+if,si,Evalúa una condición para decidir qué instrucciones ejecutar.
+inline,en_linea,Sugiere al compilador insertar el código de la función en su lugar.
+int,entero,Tipo de dato que almacena números enteros.
+long,largo,Tipo de dato entero de mayor tamaño que int.
+mutable,mutable,Permite modificar miembros de datos incluso en objetos const.
+namespace,espacio_de_nombres,Agrupa nombres para evitar colisiones.
+new,nuevo,Reserva memoria dinámica.
+operator,operador,Permite sobrecargar operadores para clases.
+private,privado,Miembros accesibles solo dentro de la clase.
+protected,protegido,Miembros accesibles en la clase y sus derivados.
+public,público,Miembros accesibles desde cualquier parte del programa.
+register,registro,Sugiere almacenar una variable en un registro del CPU.
+reinterpret_cast,reinterpretar_conversión,Convierte tipos sin comprobar compatibilidad real.
+return,retornar,Devuelve un valor desde una función.
+short,corto,Tipo de dato entero más pequeño que int.
+signed,con_signo,Permite números positivos y negativos.
+sizeof,tamaño_de,Devuelve el tamaño de una variable o tipo en bytes.
+static,estático,Mantiene el valor de una variable entre llamadas o limita el ámbito.
+static_cast,conversión_estática,Conversión explícita entre tipos compatibles.
+struct,estructura,Agrupa variables bajo un mismo nombre.
+switch,seleccionar,Estructura de control múltiple basada en case.
+template,plantilla,Permite crear funciones o clases genéricas.
+this,este,Puntero que representa la instancia actual de una clase.
+throw,lanzar,Lanza una excepción.
+true,verdadero,Valor booleano que representa una condición verdadera.
+try,intentar,Bloque para capturar excepciones.
+typedef,definir_tipo,Define un nuevo nombre para un tipo existente.
+typeid,tipoid,Permite obtener información del tipo en tiempo de ejecución.
+typename,nombre_tipo,Declara un identificador como un tipo.
+union,unión,Estructura que permite almacenar diferentes tipos en el mismo espacio de memoria.
+unsigned,sin_signo,Solo permite valores positivos.
+using,usando,Permite traer nombres al ámbito actual.
+virtual,virtual,Permite la sobreescritura de funciones en clases derivadas.
+void,vacío,Indica que una función no devuelve ningún valor.
+volatile,volátil,Indica que una variable puede cambiar en cualquier momento
+while,mientras,Ejecuta un bucle mientras una condición sea verdadera.
