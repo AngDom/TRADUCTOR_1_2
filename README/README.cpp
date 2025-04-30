@@ -65,7 +65,7 @@ int main() {
 
         archivo << "---\n";
         archivo << "Autor\n";
-        archivo << "- [Angel Saul Rafael Dominguez]\n";
+        archivo << "- Angel Saul Rafael Dominguez\n";
 
         archivo.close();
         cout << " README.md creado exitosamente." << endl;
