@@ -44,11 +44,11 @@ int main() {
         archivo << "2. Compilar los programas\n";
         archivo << "Compilar CRUD de palabras:\n";
         archivo << "```bash\n";
-        archivo << "g++ crud_palabras.cpp -o crud_palabras\n";
+        archivo << "c++ crud_palabras.cpp -o crud_palabras\n";
         archivo << "```\n\n";
         archivo << "Compilar Traductor de codigo:\n";
         archivo << "```bash\n";
-        archivo << "g++ traductor_codigo.cpp -o traductor_codigo\n";
+        archivo << "c++ traductor_codigo.cpp -o traductor_codigo\n";
         archivo << "```\n\n";
 
         archivo << "3. Ejecutar los programas\n";
@@ -60,11 +60,6 @@ int main() {
         archivo << "```bash\n";
         archivo << "./traductor_codigo\n";
         archivo << "```\n\n";
-
-        archivo << "Casos de prueba disponibles\n";
-        archivo << "- ejemplos/ejemplo1.cpp\n";
-        archivo << "- ejemplos/ejemplo2.cpp\n";
-        archivo << "- ejemplos/ejemplo3.cpp\n\n";
 
         archivo << "Como colaborar\n";
         archivo << "1. Haz un fork del repositorio.\n";
@@ -81,6 +76,6 @@ int main() {
         cerr << " Error al crear el archivo README.md." << endl;
     }
 
-    return 0;
+	system ("pause");
 }
 

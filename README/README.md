@@ -35,12 +35,12 @@ cd TraductorCpp
 2. Compilar los programas
 Compilar CRUD de palabras:
 ```bash
-g++ crud_palabras.cpp -o crud_palabras
+c++ crud_palabras.cpp -o crud_palabras
 ```
 
 Compilar Traductor de codigo:
 ```bash
-g++ traductor_codigo.cpp -o traductor_codigo
+c++ traductor_codigo.cpp -o traductor_codigo
 ```
 
 3. Ejecutar los programas
@@ -53,11 +53,6 @@ Ejecutar Traductor:
 ```bash
 ./traductor_codigo
 ```
-
-Casos de prueba disponibles
-- ejemplos/ejemplo1.cpp
-- ejemplos/ejemplo2.cpp
-- ejemplos/ejemplo3.cpp
 
 Como colaborar
 1. Haz un fork del repositorio.
