@@ -2,7 +2,7 @@
 
   Objetivo
 Crear un programa en C++ que permita:
-- Agregar palabras claves con su traducción y funcionalidad (CRUD).
+- Agregar palabras claves con su traduccion y funcionalidad (CRUD).
 - Traducir fragmentos de codigo C++ utilizando un diccionario definido.
 
  Tecnologias usadas
@@ -57,4 +57,4 @@ Como colaborar
 
 ---
 Autor
-- [Angel Saul Rafael Dominguez]
+- Angel Saul Rafael Dominguez

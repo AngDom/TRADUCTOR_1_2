@@ -12,7 +12,7 @@ int main() {
         archivo << " Traductor de C++ Basico\n\n";
         archivo << "  Objetivo\n";
         archivo << "Crear un programa en C++ que permita:\n";
-        archivo << "- Agregar palabras claves con su traducción y funcionalidad (CRUD).\n";
+        archivo << "- Agregar palabras claves con su traduccion y funcionalidad (CRUD).\n";
         archivo << "- Traducir fragmentos de codigo C++ utilizando un diccionario definido.\n\n";
 
         archivo << " Tecnologias usadas\n";
