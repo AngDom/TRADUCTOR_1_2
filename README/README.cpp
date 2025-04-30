@@ -26,10 +26,7 @@ int main() {
         archivo << "+-- crud_palabras.cpp\n";
         archivo << "+-- traductor_codigo.cpp\n";
         archivo << "+-- palabras.txt\n";
-        archivo << "+-- ejemplos/\n";
-        archivo << "   +-- ejemplo1.cpp\n";
-        archivo << "   +-- ejemplo2.cpp\n";
-        archivo << "   +-- ejemplo3.cpp\n";
+        
         archivo << "+-- README.md\n";
         archivo << "+-- CONTRIBUTING.md\n";
         archivo << "```\n\n";

@@ -16,10 +16,6 @@ TraductorCpp/
 +-- crud_palabras.cpp
 +-- traductor_codigo.cpp
 +-- palabras.txt
-+-- ejemplos/
-   +-- ejemplo1.cpp
-   +-- ejemplo2.cpp
-   +-- ejemplo3.cpp
 +-- README.md
 +-- CONTRIBUTING.md
 ```
